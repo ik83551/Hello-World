@@ -10,7 +10,7 @@ public class Main
 {
 	public static void main(String[] args) {
 		System.out.println("Hello World");
-		System.out.println("My name is Ishaan Koradia and I love to read.");
+		System.out.println("My name is Ishaan and I love to read.");
 		System.out.println("I would like to go to a UC college such as Davis,Irvine,etc.");
 		System.out.println("I think I will major in Data Science.");
 		System.out.println("As for now, I don't play many video games.");
